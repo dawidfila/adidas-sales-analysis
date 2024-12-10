@@ -1,4 +1,4 @@
-# Adidas Sales Analysis Dashboard
+# Adidas Sales Analysis
 
 ### Data Link : https://docs.google.com/spreadsheets/d/1Gyl50XzwgJNYTcOvwFuJlNHP5RetB2ay/edit?usp=sharing&ouid=111450811888471826826&rtpof=true&sd=true
 
