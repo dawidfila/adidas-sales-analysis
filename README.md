@@ -57,7 +57,7 @@ The line chart shows sales value from January to December.
 
 ### Lowest sales: March ($57M) and November ($64M).  
 
-# Sales by state  
+## Sales by state  
 A map of the USA illustrates sales values across individual states.
 
 ![5](https://github.com/user-attachments/assets/de201c16-8d56-4399-8bb3-e1e4f43ce397)
@@ -101,8 +101,6 @@ A bar chart presents sales for major retailers
 - Kohl's: $102M
 - Amazon: $78M
 - Walmart: $75M
-
-### Data Link : https://docs.google.com/spreadsheets/d/1Gyl50XzwgJNYTcOvwFuJlNHP5RetB2ay/edit?usp=sharing&ouid=111450811888471826826&rtpof=true&sd=true
 
 ### Data Link
 [Google Sheets Link](https://docs.google.com/spreadsheets/d/1Gyl50XzwgJNYTcOvwFuJlNHP5RetB2ay/edit?usp=sharing&ouid=111450811888471826826&rtpof=true&sd=true)
