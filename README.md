@@ -1,22 +1,28 @@
 # Adidas Sales Analysis
 
-### Data Link : https://docs.google.com/spreadsheets/d/1Gyl50XzwgJNYTcOvwFuJlNHP5RetB2ay/edit?usp=sharing&ouid=111450811888471826826&rtpof=true&sd=true
-
 ## Problem Statement
 
 The project was created in Power BI to support the company in better understanding sales data and making strategic business decisions. The dashboard provides a comprehensive visualization of sales data, presenting an analysis of key performance indicators (KPIs) for the years 2020–2021.
 
+# Business solution
+The Power BI dashboard supports business decisions in several areas:
+
+- Identification of peak sales periods and locations with the highest demand.
+- Assessment of product and regional profitability.
+- Optimization of pricing strategies.
+- Development of practical, data-driven recommendations.
+
 ## Business Requirements
 
-- Equipping decision-makers with data-driven information to support strategic development in the dynamic sports industry. 
+1. Equipping decision-makers with data-driven information to support strategic development in the dynamic sports industry. 
 
-- Identifying geographic areas with high and low sales potential.
+2. Identifying geographic areas with high and low sales potential.
 
-- Gaining insights into product performance to support inventory and marketing decisions. 
+3. Gaining insights into product performance to support inventory and marketing decisions. 
 
-- Adopting a mindful approach to pricing and margins to improve profitability.  
+4. Adopting a mindful approach to pricing and margins to improve profitability.  
 
-- Practical recommendations to optimize sales and profits.
+5. Practical recommendations to optimize sales and profits.
 
 # Snapshot of Dashboard (Power BI Service)
 
@@ -96,10 +102,4 @@ A bar chart presents sales for major retailers
 - Amazon: $78M
 - Walmart: $75M
 
-# Business solution
-The Power BI dashboard supports business decisions in several areas:
-
-- Identification of peak sales periods and locations with the highest demand.
-- Assessment of product and regional profitability.
-- Optimization of pricing strategies.
-- Development of practical, data-driven recommendations.
+### Data Link : https://docs.google.com/spreadsheets/d/1Gyl50XzwgJNYTcOvwFuJlNHP5RetB2ay/edit?usp=sharing&ouid=111450811888471826826&rtpof=true&sd=true
