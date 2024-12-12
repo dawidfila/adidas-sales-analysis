@@ -28,7 +28,7 @@ The Power BI dashboard supports business decisions in several areas:
 
 ![1](https://github.com/user-attachments/assets/f7e66a86-d422-430e-a817-7bb86501d489)
 
-# Key sales indicators (KPIs)
+## Key sales indicators (KPIs)
 
 - Total sales value ($900M).
 - Operating profit ($332M).
@@ -64,7 +64,7 @@ A map of the USA illustrates sales values across individual states.
 
 ![6](https://github.com/user-attachments/assets/655b39ac-ae51-4857-8b0e-a1c5ef41ead6)
 
-# Sales by region
+## Sales by region
 
 ![7](https://github.com/user-attachments/assets/ca523db9-2088-473c-966b-eb54e57a4031)
 
@@ -76,7 +76,7 @@ A pie chart displays the percentage share of sales across different regions:
 - South: $145M (16,08%)
 - Midwest: $136M (15,09%)
 
-# Sales by product
+## Sales by product
 
 ![8](https://github.com/user-attachments/assets/92bd74de-0d77-4be7-b09e-210b2c40efa4)
 
@@ -89,7 +89,7 @@ A bar chart displays the top-selling product categories.
 - Men's Apparel: $124M
 - Women's Athletic Footwear: $107M
 
-# Sales by retailer
+## Sales by retailer
 
 ![9](https://github.com/user-attachments/assets/afde8c19-0956-4198-8126-d1e3d3f044fa)
 
@@ -103,3 +103,9 @@ A bar chart presents sales for major retailers
 - Walmart: $75M
 
 ### Data Link : https://docs.google.com/spreadsheets/d/1Gyl50XzwgJNYTcOvwFuJlNHP5RetB2ay/edit?usp=sharing&ouid=111450811888471826826&rtpof=true&sd=true
+
+### Data Link
+[Google Sheets Link](https://docs.google.com/spreadsheets/d/1Gyl50XzwgJNYTcOvwFuJlNHP5RetB2ay/edit?usp=sharing&ouid=111450811888471826826&rtpof=true&sd=true)
+
+## Conclusion
+The dashboard provides actionable insights to improve Adidas's sales performance and strategic planning.
