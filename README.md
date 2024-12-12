@@ -4,7 +4,7 @@
 
 The project was created in Power BI to support the company in better understanding sales data and making strategic business decisions. The dashboard provides a comprehensive visualization of sales data, presenting an analysis of key performance indicators (KPIs) for the years 2020–2021.
 
-# Business solution
+## Business solution
 The Power BI dashboard supports business decisions in several areas:
 
 - Identification of peak sales periods and locations with the highest demand.
